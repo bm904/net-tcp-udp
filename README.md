@@ -1,7 +1,6 @@
 # Test TCP
 ## Executer l'application tcp
-> npm run start:tcp 
-<br/>
+> npm run start:tcp \
 > telnet 127.0.0.1 8080
 
 # Test UDP
