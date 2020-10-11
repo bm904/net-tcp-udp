@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "start:tcp": "nodemon src/tcp.js",
+    "start:udp": "nodemon src/udp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
